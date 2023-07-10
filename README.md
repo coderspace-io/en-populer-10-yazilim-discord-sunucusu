@@ -80,7 +80,7 @@ Backend, frontend, mobil geliştirme, siber güvenlik, UX ve devops hakkında he
 
   
 
-5.  ### **Siberay*
+5.  ### Siberay
 ![](https://lh4.googleusercontent.com/9027EMN0mrUUgiNRYLEaFRKC_LOZnO4g9sFLgOiOJjXAdUG_VrWMHi040WrI2aXtndT09s2TkuaASKkwU273pVhjcwPt-g0KyFzfuetJOh2FDFjKY4MCsjtATVrmCHMRq-NRdtyEJz7n1UG3b7CFclU)
 
 👉 Discord sunucu daveti: https://discord.com/invite/QW5R6YDQ2S
@@ -102,3 +102,9 @@ Discord kanalımız, yazılım dünyasında deneyimli ve yetenekli programcılar
 Discord kanalımızda, farklı programlama dillerine ayrılmış özel kanallarımız bulunur. Size en uygun olanı seçerek ilgi alanlarınıza yönelik konuşmalara katılabilir, sorular sorabilir ve deneyimlerinizi paylaşabilirsiniz. **Frontend**, **backend**, **mobile**, **data**, **fullstack**, **game**, **devops** ve **cyber security** için farklı kanallarımız bulunur.
 
 Gelin, yazılım dünyasının en iyi programcılarını bir araya getiren bu muhteşem Discord kanalında buluşalım! Discord sunucumuza katılmak için bağlantıyı kullanabilirsiniz. 👉 [https://discord.com/invite/AW9Fw3yRU6](https://discord.com/invite/AW9Fw3yRU6)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/coderspaceio/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coderspace_io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/coderspace-io/)
+[![Codecast](https://img.shields.io/badge/Codecast-%2381b71a.svg?&style=for-the-badge&logo=codecast&logoColor=white)](https://open.spotify.com/show/76XNB92UbdvDwTdeXDtzNF)
